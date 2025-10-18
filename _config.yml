@@ -13,7 +13,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Haeun Jeon"
 description              : &description "Ph.D. Student"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://HESEDaniel.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://HESEDaniel.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hesedaniel/haeun-jeon.github.io"
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=xSkwiQgAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : ""
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
