@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "scholarphoto2.jpeg"
   name             : "Haeun Jeon"
   pronouns         : # example: "she/her"  
   bio              : "Currently a Ph.D. student in Industrial & Systems Engineering at KAIST."
