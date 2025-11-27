@@ -29,7 +29,7 @@ Early Graduation, 2013.03 - 2015.02
 Publications
 -----
 - **A Decision-focused Learning Framework for Goal-based Investing**\\
-Hyunglip Bae*, Minsu Park*, <u>Haeun Jeon</u>, Woo Chang Kim\\
+Hyunglip Bae\*, Minsu Park\*, <u>Haeun Jeon</u>, Woo Chang Kim\\
 Quantitative Finance
 
 - [**Return Prediction for Mean-Variance Portfolio Selection: How Decision-Focused Learning Shapes Forecasting Models**](https://arxiv.org/abs/2409.09684)\\
