@@ -28,6 +28,10 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
+- **A Decision-focused Learning Framework for Goal-based Investing**\\
+Hyunglip Bae*, Minsu Park*, <u>Haeun Jeon</u>, Woo Chang Kim\\
+Quantitative Finance
+
 - [**Return Prediction for Mean-Variance Portfolio Selection: How Decision-Focused Learning Shapes Forecasting Models**](https://arxiv.org/abs/2409.09684)\\
 Junhyeong Lee\*, <u>Haeun Jeon</u>\*, Hyunglip Bae, Yongjae Lee\\
 ICAIF 2025, *Oral Presentation* (top-15.5%)
@@ -39,10 +43,6 @@ AAAI 2025, *Oral Presentation* (top-4.6%)
 
 Working Papers
 -----
-- **A Decision-focused Learning Framework for Goal-based Investing**\\
-Hyunglip Bae*, Minsu Park*, <u>Haeun Jeon</u>, Woo Chang Kim\\
-Quantitative Finance, *Conditionally Accepted*
-
 - **Tran2SP: Transformer-based Two-Stage Stochastic Programming**\\
 Chanyeong Kim, Joohwan Ko, Hyunglip Bae, <u>Haeun Jeon</u>, Woo Chang Kim\\
 INFORMS Journal on Computing, *Major Revision*
