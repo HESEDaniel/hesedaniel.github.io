@@ -71,11 +71,11 @@ Projects
 Integrated AI in stochastic optimization by replacing costly solver routines with neural surrogates, directly approximating optimal solutions, and transferring models across problem families.
 
 - **National Research Foundation of Korea**\\
-*Decision-focused Learning*
+*Decision-focused Learning*\\
 Conducted research on decision-focused learning by developing theoretical foundations, constraint-aware formulations, and efficient training algorithms.
 
 - **Hana Bank**\\
-*Commercial Real Estate (CRE) Regime Prediction*
+*Commercial Real Estate (CRE) Regime Prediction*\\
 Defined CRE market regimes, selected features for regime prediction with statistical \& AI-based methods, and built regime prediction models.
 
 
