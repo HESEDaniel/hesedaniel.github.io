@@ -30,7 +30,7 @@ Publications
 -----
 - [**A Decision-focused Learning Framework for Goal-based Investing**](https://www.tandfonline.com/doi/full/10.1080/14697688.2025.2596917)\\
 Hyunglip Bae\*, Minsu Park\*, <u>Haeun Jeon</u>, Woo Chang Kim\\
-Quantitative Finance, *Selected as a Featured Article*
+Quantitative Finance, *Featured Article*
 
 - [**Return Prediction for Mean-Variance Portfolio Selection: How Decision-Focused Learning Shapes Forecasting Models**](https://arxiv.org/abs/2409.09684)\\
 Junhyeong Lee\*, <u>Haeun Jeon</u>\*, Hyunglip Bae, Yongjae Lee\\
